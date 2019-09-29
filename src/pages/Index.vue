@@ -237,7 +237,7 @@
                   rows="5"
                   name="message"
                   class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-blue-full mb-2 px-4 py-4"
-                  placeholder="Salut la team Wikiwars ! J'aimerai..."
+                  placeholder="Salut la team Wikiwars ! J'aimerais..."
                   required
                 ></textarea>
               </div>
