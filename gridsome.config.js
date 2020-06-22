@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
   siteName: 'WikiWars',
-  siteDescription: 'A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0',
+  siteDescription: 'Des événements décalés, fun et compétitifs sur... Wikipédia!',
   siteUrl: 'https://www.wikiwars.gg',
   plugins: [
     {
