@@ -89,7 +89,7 @@
         <ul class="flex items-center">
           <li class="mr-8">
             <a href="mailto:hello@wikiwars.gg" class="text-white hover:text-gray-400">
-              <font-awesome :icon="['fas', 'envelope']" size="2x" />
+              <font-awesome :icon="['fas', 'envelope']" />
             </a>
           </li>
 
@@ -99,7 +99,7 @@
               target="_blank"
               class="text-white hover:text-gray-400"
             >
-              <font-awesome :icon="['fab', 'github']" size="2x" />
+              <font-awesome :icon="['fab', 'github']" />
             </a>
           </li>
 
@@ -109,7 +109,7 @@
               target="_blank"
               class="text-white hover:text-gray-400"
             >
-              <font-awesome :icon="['fab', 'twitter']" size="2x" />
+              <font-awesome :icon="['fab', 'twitter']" />
             </a>
           </li>
           <li class="mr-8">
@@ -118,7 +118,7 @@
               target="_blank"
               class="text-white hover:text-gray-400"
             >
-              <font-awesome :icon="['fab', 'facebook']" size="2x" />
+              <font-awesome :icon="['fab', 'facebook']" />
             </a>
           </li>
           <li class="mr-8">
@@ -127,7 +127,7 @@
               target="_blank"
               class="text-white hover:text-gray-400"
             >
-              <font-awesome :icon="['fab', 'instagram']" size="2x" />
+              <font-awesome :icon="['fab', 'instagram']" />
             </a>
           </li>
         </ul>
